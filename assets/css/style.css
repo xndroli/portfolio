@@ -1,7 +1,7 @@
 :root {
-    --primary-color: #fce138;
-    --secondary-color: #024e76;
-    --tertiary-color: #39a6b2;
+    --primary-color: #FCFCFC;
+    --secondary-color: #3F4045;
+    --tertiary-color: #5D737E;
   }
   
   * {
@@ -12,14 +12,14 @@
   
   body {
     /* more on this crazy alphanumerical value in a minute! */
-    color: #39a6b2;
+    color: var(--tertiary-color);
     font-family: Helvetica, Arial, sans-serif;
   }
   
   /* apply styles to <header> */
   header {
     padding: 20px 35px;
-    background-color: #39a6b2;
+    background-color: var(--tertiary-color);
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
@@ -189,14 +189,14 @@
   }
   
   .hero-form button:hover {
-    background-color: #39a6b2;  
+    background-color: var(--tertiary-color);  
   }
   
   /* Hero Style End */
   
   .intro p {
     line-height: 1.7;
-    color: #39a6b2;
+    color: var(--tertiary-color);
     width: 80%;
     font-size: 20px;
   }
@@ -226,7 +226,7 @@
   }
   
   .secondary-border {
-    border-color: #39a6b2;
+    border-color: var(--tertiary-color);
   }
   
   .step {
@@ -240,11 +240,11 @@
   }
   
   .step:not(:last-child) {
-    border-bottom: 1px solid #39a6b2;
+    border-bottom: 1px solid var(--tertiary-color);
   }
   
   .step:nth-child(even) {
-    border-bottom: 1px solid #39a6b2;
+    border-bottom: 1px solid var(--tertiary-color);
   }
   
   .step-img {
@@ -274,7 +274,7 @@
   }
   
   .step-text p {
-    color: #39a6b2;
+    color: var(--tertiary-color);
     font-size: 18px;
     flex: 12;
   }
@@ -415,7 +415,7 @@
   
   .contact-form button:hover {
     color: var(--primary-color);
-    background: #39a6b2;
+    background: var(--tertiary-color);
   }
   
   .contact-info a {
@@ -592,7 +592,7 @@
     position: absolute;
     left: -29px;
     top: -3px;
-    background-image: radial-gradient(circle, #39a6b2, var(--secondary-color));
+    background-image: radial-gradient(circle, var(--tertiary-color), var(--secondary-color));
   }
   
   .checkbox-wrapper label::after {
