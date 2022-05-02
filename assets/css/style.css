@@ -28,7 +28,7 @@
     position: -webkit-sticky;
     position: sticky;
     top: 0;
-    background-image: url("../images/hero-bg.jpg");
+    background-image: url("../images/programming_text.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -173,7 +173,7 @@
   .intro p {
     line-height: 1.7;
     color: var(--tertiary-color);
-    /* width: 80%; */
+    width: 100%;
     font-size: 20px;
     margin: 0 auto;
     text-align: left;
@@ -189,8 +189,8 @@
     border-right: 3px solid;
     padding-right: 0px;
     text-align: left;
-    margin: 0 auto 5px auto;
-    width: 50%; */
+    /* margin: 0 auto 5px auto; */
+    width: 50%;
   }
   
   .primary-border {
@@ -203,7 +203,7 @@
   
   .step {
     margin: 50px auto;
-    padding-bottom: 50px;
+    padding-bottom: 20px;
     width: 80%;
     display: flex;
     flex-wrap: wrap;
@@ -211,17 +211,15 @@
     justify-content: space-between;
   }
   
-  .step:not(:last-child) {
-    border-bottom: 1px solid var(--tertiary-color);
-  }
-  
-  .step:nth-child(even) {
-    border-bottom: 1px solid var(--tertiary-color);
-  }
-  
   .step-img {
-    flex: 1 12%;
-    margin-right: 20px;
+    /* flex: 1 12%; */
+    margin-right: 0px;
+    border: 5px solid #ddd;
+    border-radius: 8px;
+  }
+
+  .step-img1 {
+    max-width: 50%;
   }
   
   .step-img img {
@@ -239,7 +237,7 @@
   }
   
   .step-info {
-    flex: 2 70%;
+    /* flex: 2 70%; */
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -299,10 +297,6 @@
     margin: 15px;
   }
   
-  .contact-info iframe {
-    height: 400px;
-  }
-  
   .contact-info div {
     color: white;
   }
@@ -315,7 +309,7 @@
   .contact-info p, .contact-info address {
     margin: 20px 0;
     line-height: 1.5;
-    font-size: 16px;
+    font-size: 32px;
     font-style: normal;
   }
   
@@ -444,10 +438,10 @@
     }
   
     .step-img {
-      flex: 0 32%;
-      margin-right: 0;
-      margin-top: 15px;
-      margin-bottom: 15px;
+      /* flex: 0 32%; */
+      /* margin-right: 0; */
+      /* margin-top: 15px; */
+      /* margin-bottom: 15px; */
     }
   
     .step-text {
