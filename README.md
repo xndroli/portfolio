@@ -55,7 +55,7 @@ I submitted the following for review:
 
 ## Screenshot
 
-![Portfolio](https://courses.bootcampspot.com/courses/1379/files/1499420/preview "Portfolio Mock-up Gif")
+![Portfolio]("Portfolio Mock-up Gif")
 
 ## Link to Deployed Application
 
