@@ -8,16 +8,15 @@ A portfolio of work can showcase my skills and talents to employers looking to f
 
 With these points in mind, in this Challenge I’ll set yourself up for future success by applying the core skills you've recently learned: flexbox, media queries, and CSS variables. I'll get to practice your new skills while creating something that you'll use during your job search. It’s a win-win that you'll likely be grateful for in the future!
 
-[See Deployed Application](https://xndroli.github.io/portfolio/)
+[See Deployed Portfolio](https://xndroli.github.io/portfolio/)
 
 ## Table of Contents
 
-* [User-Story](#User-Story)
-* [Acceptance-Criteria](#Acceptance-Criteria)
-* [Review](#Review)
-* [Screenshot](#Screenshot)
-* [Link-to-Deployed-Application](#Link-to-Deployed-Application)
-
+- [User-Story](#User-Story)
+- [Acceptance-Criteria](#Acceptance-Criteria)
+- [Review](#Review)
+- [Screenshot](#Screenshot)
+- [Link-to-Deployed-Application](#Link-to-Deployed-Application)
 
 ## User Story
 
@@ -49,9 +48,9 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 I submitted the following for review:
 
-* The URL of my deployed portfolio.
+- The URL of my deployed portfolio.
 
-* The URL of my uniquely named GitHub repository, and professional README describing the project.
+- The URL of my uniquely named GitHub repository, and professional README describing the project.
 
 ## Screenshot
 
@@ -59,7 +58,8 @@ I submitted the following for review:
 
 ## Link to Deployed Application
 
-[Deployed Application](https://xndroli.github.io/horizon-code-refactor/)
+[See Deployed Portfolio](https://xndroli.github.io/portfolio/)
 
 ---
+
 © 2022 xndroli. Confidential and Proprietary. All Rights Reserved.
