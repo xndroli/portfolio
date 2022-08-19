@@ -54,7 +54,7 @@ I submitted the following for review:
 
 ## Screenshot
 
-![Portfolio](https://github.com/xndroli/portfolio/blob/8edd660079338187f366ec156a9754fc6f7215d5/assets/images/portfolio_screenshot.png "Portfolio Mock-up Gif")
+![Portfolio](https://github.com/xndroli/portfolio/blob/25302009724e44408e8a1c1f17e7d0da55aa2866/assets/images/portfolio_screenshot.png "Portfolio Mock-up Gif")
 
 ## Link to Deployed Application
 
